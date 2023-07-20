@@ -1,6 +1,3 @@
-[submodule "amf"]
-	path = NFs/amf
-	url = https://github.com/free5gc/amf.git
 [submodule "ausf"]
 	path = NFs/ausf
 	url = https://github.com/free5gc/ausf.git
@@ -31,3 +28,7 @@
 [submodule "webconsole"]
 	path = webconsole
 	url = https://github.com/free5gc/webconsole.git
+[submodule "NFs/amf"]
+	path = NFs/amf
+	url = https://github.com/hakiitakeru/amf.git
+	branch = feature/thread
